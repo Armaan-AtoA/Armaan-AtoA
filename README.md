@@ -3,7 +3,7 @@
 # Armaan Azam Arabi
 
 <a href="https://github.com">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00f0ff&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Armaan-AtoA&color=00f0ff&style=flat-square" alt="profile views" />
 </a>
 <img src="https://img.shields.io/badge/Status-Building_Systems-00E676?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Sharjah%2C_UAE-7C4DFF?style=flat-square" />
@@ -36,8 +36,8 @@ Engineering privacy-first Android systems, local biometric telemetry engines, an
 
 ### GitHub Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141416&title_color=00f0ff&text_color=ffffff&icon_color=00e676" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=141416&title_color=00f0ff&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Armaan-AtoA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141416&title_color=00f0ff&text_color=ffffff&icon_color=00e676" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan-AtoA&layout=compact&theme=tokyonight&hide_border=true&bg_color=141416&title_color=00f0ff&text_color=ffffff" alt="Top Languages" width="48%" />
 </div>
 
 ---

@@ -2,7 +2,7 @@
 
 # Armaan Azam Arabi
 
-<a href="https://github.com">
+<a href="https://github.com/Armaan-AtoA">
   <img src="https://komarev.com/ghpvc/?username=Armaan-AtoA&color=00f0ff&style=flat-square" alt="profile views" />
 </a>
 <img src="https://img.shields.io/badge/Status-Building_Systems-00E676?style=flat-square&logo=linux&logoColor=white" />
@@ -12,7 +12,7 @@
 
 ---
 
-###  What I Build
+### What I Build
 Engineering privacy-first Android systems, local biometric telemetry engines, and hardware-software integrations. Focused on clean math, zero bloat, and high-performance architecture.
 
 * **Mobile & Wearables:** Jetpack Compose, Android Health Connect, custom Wear OS telemetry modules.
@@ -21,7 +21,7 @@ Engineering privacy-first Android systems, local biometric telemetry engines, an
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 <div align="center">
 
 | Category | Technologies |

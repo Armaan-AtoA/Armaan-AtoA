@@ -36,8 +36,8 @@ Engineering privacy-first Android systems, local biometric telemetry engines, an
 
 ### GitHub Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaan-AtoA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141416&title_color=00f0ff&text_color=ffffff&icon_color=00e676" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan-AtoA&layout=compact&theme=tokyonight&hide_border=true&bg_color=141416&title_color=00f0ff&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://readme-stats-github.pages.dev/api?username=Armaan-AtoA&show_icons=true&theme=shadow" alt="GitHub Stats" width="48%" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Armaan-AtoA&theme=shadow" alt="Top Languages" width="48%" />
 </div>
 
 ---
